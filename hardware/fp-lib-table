@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "reverse-mount")(type "KiCad")(uri "${KIPRJMOD}/reverse-mount.pretty")(options "")(descr ""))
+)
